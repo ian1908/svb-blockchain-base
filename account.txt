@@ -1,0 +1,7 @@
+#Enter your account details here
+
+#account address
+
+#account password
+
+#contract address
