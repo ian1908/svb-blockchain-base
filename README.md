@@ -4,8 +4,13 @@
 Create a coin with an initial supply and send an amount to your Ethereum wallet address
 
 1. `git clone https://github.com/ian1908/svb-blockchain-base.git`
-2. `cd angular4-truffle-starter-dapp`
+2. `cd svb-blockchain-base`
 3. `npm install`
+
+
+
+
+
 4. `truffle compile` to compile your contracts
 5. `truffle migrate` to deploy those contracts to the network
 6. `ng serve`. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
